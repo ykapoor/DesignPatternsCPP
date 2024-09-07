@@ -1,4 +1,5 @@
 # Prerequisites
+.ccls-cache
 *.d
 
 # Compiled Object files
